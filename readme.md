@@ -1,5 +1,5 @@
 
-## Hi, I'm [Ilia Ozhmegov](https://www.linkedin.com/in/ilia-ozhmegov/) 👋
+# Hi, I'm [Ilia Ozhmegov](https://www.linkedin.com/in/ilia-ozhmegov/) 👋
 
 I am a Data Scientist with both software engineering and machine learning experience in tackling complex data-related problems. I have contributed to the design and development of dozens machine learning projects, varying from video compression with a complex neural network to time-series forecasting of Bank Account Balance. 
 
@@ -11,24 +11,40 @@ Working with stakeholders and facilitating cross-team collaboration has been a c
 [![Medium Badge](https://img.shields.io/badge/-@ilia.ozhmegov-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ilia.ozhmegov/)](https://medium.com/@ilia.ozhmegov)
 [![Gmail Badge](https://img.shields.io/badge/-ilia.ozhmegov@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilia.ozhmegov@gmail.com)](mailto:ilia.Ozhmegov@gmail.com)
 
-## Language and Tools 👨‍💻 
+## Languages and Tools 👨‍💻 
+<!--- Languages --->
 <p align="center">
-    <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+    <a href="https://github.com/iliaozhmegov?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+    <a href="https://github.com/iliaozhmegov?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
+    <a href="https://github.com/iliaozhmegov?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
 </p>
 
+<!--- Data Bases --->
+<p align="center">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-FF8000?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="MS SQL" src="https://img.shields.io/badge/-MS%20SQL-FF8060?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+  <img alt="MS SQL" src="https://img.shields.io/badge/-MongoDB-FF8080?style=flat-square&logo=mongodb&logoColor=white">
+</p>
 
-- SQL
-- FastAPI
-- Flask
-- CI/CD
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-- Neovim
-- Bash Scripting
-- Jupyter-ascending
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<!--- APIs --->
+<p align="center">
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009C59?style=flat-square&logo=fastapi&logoColor=white
+">
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-009059?style=flat-square&logo=flask&logoColor=white">
+</p>
+
+<!--- Deployment --->
+
+<p align="center">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-8000f0?style=flat-square&logo=github&logoColor=white
+">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-8000e0?style=flat-square&logo=githubactions&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-8000d9?style=flat-square&logo=docker&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-8000c9?style=flat-square&logo=amazonaws&logoColor=white">
+</p>
+
+<!--- Some fav tools --->
+<p align="center">
+  <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-008080?style=flat-square&logo=neovim&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Ascending-008080?style=flat-square&logo=jupyter&logoColor=white">
+</p>
