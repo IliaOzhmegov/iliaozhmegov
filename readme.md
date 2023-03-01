@@ -28,16 +28,14 @@ Working with stakeholders and facilitating cross-team collaboration has been a c
 
 <!--- APIs --->
 <p align="center">
-  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009C59?style=flat-square&logo=fastapi&logoColor=white
-">
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009C59?style=flat-square&logo=fastapi&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-009059?style=flat-square&logo=flask&logoColor=white">
 </p>
 
 <!--- Deployment --->
 
 <p align="center">
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-8000f0?style=flat-square&logo=github&logoColor=white
-">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-8000f0?style=flat-square&logo=github&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-8000e0?style=flat-square&logo=githubactions&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-8000d9?style=flat-square&logo=docker&logoColor=white">
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-8000c9?style=flat-square&logo=amazonaws&logoColor=white">
