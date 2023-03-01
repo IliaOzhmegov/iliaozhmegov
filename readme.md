@@ -39,8 +39,9 @@ Working with stakeholders and facilitating cross-team collaboration has been a c
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-8000e0?style=flat-square&logo=githubactions&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-8000d9?style=flat-square&logo=docker&logoColor=white">
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-8000c9?style=flat-square&logo=amazonaws&logoColor=white">
+  <br>
+  <!--- Some fav tools --->
 
-<!--- Some fav tools --->
   <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-008080?style=flat-square&logo=neovim&logoColor=white">
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Ascending-008080?style=flat-square&logo=jupyter&logoColor=white">
 </p>
