@@ -7,9 +7,11 @@ The majority of those projects include the usage of advanced statistical learnin
 
 Working with stakeholders and facilitating cross-team collaboration has been a crucial part of my experience. I enjoy working in a team and achieving results together, by sharing knowledge and collaborating closely with fellow data scientists and engineers.
 
-[![Linkedin Badge](https://img.shields.io/badge/-ilia.ozhmegov-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/ilia-ozhmegov/)
-[![Medium Badge](https://img.shields.io/badge/-@ilia.ozhmegov-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ilia.ozhmegov/)](https://medium.com/@ilia.ozhmegov)
-[![Gmail Badge](https://img.shields.io/badge/-ilia.ozhmegov@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilia.ozhmegov@gmail.com)](mailto:ilia.Ozhmegov@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ilia-ozhmegov/"><img alt="linkedin" src="https://img.shields.io/badge/-ilia.ozhmegov-000000?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@ilia.ozhmegov"><img alt="medium" src="https://img.shields.io/badge/-@ilia.ozhmegov-000000?style=flat-square&labelColor=000000&logo=Medium"></a>
+  <a href="mailto:ilia.Ozhmegov@gmail.com"><img alt="mail" src="https://img.shields.io/badge/-ilia.ozhmegov@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white"></a>
+</p>
 
 ## Languages and Tools 👨‍💻 
 <!--- Languages --->
