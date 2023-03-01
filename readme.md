@@ -14,6 +14,8 @@ Working with stakeholders and facilitating cross-team collaboration has been a c
 </p>
 
 ## Languages and Tools 👨‍💻 
+Here is a some technologies that usually use.
+
 <!--- Languages --->
 <p align="center">
     <a href="https://github.com/iliaozhmegov?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
@@ -47,3 +49,13 @@ Working with stakeholders and facilitating cross-team collaboration has been a c
   <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-008080?style=flat-square&logo=neovim&logoColor=white">
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Ascending-008080?style=flat-square&logo=jupyter&logoColor=white">
 </p>
+
+## LeetCode
+
+* 400+ Problems (Data Structures and Algorithms)
+* Contest Rating - 1488 (Top 46.63% among those who participate)
+
+![Leetcode Stats](https://leetcode.card.workers.dev/iliaozhmegov?theme=dark)
+
+
+
