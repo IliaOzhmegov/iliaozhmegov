@@ -14,7 +14,7 @@ Working with stakeholders and facilitating cross-team collaboration has been a c
 </p>
 
 ## Languages and Tools 👨‍💻 
-Here is a some technologies that usually use.
+Here is a some technologies that usually use:
 
 <!--- Languages --->
 <p align="center">
@@ -50,12 +50,16 @@ Here is a some technologies that usually use.
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Ascending-008080?style=flat-square&logo=jupyter&logoColor=white">
 </p>
 
-## LeetCode
+## Competitive programming
 
 * 400+ Problems (Data Structures and Algorithms)
 * Contest Rating - 1488 (Top 46.63% among those who participate)
 
-![Leetcode Stats](https://leetcode.card.workers.dev/iliaozhmegov?theme=dark)
+<p align="center">
+  <img alt="Leetcode Stats" src="https://leetcode.card.workers.dev/iliaozhmegov?theme=dark">
+</p>
+
+
 
 
 
