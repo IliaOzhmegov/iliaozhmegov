@@ -17,10 +17,10 @@ Working with stakeholders and facilitating cross-team collaboration has been a c
     <a href="https://github.com/iliaozhmegov?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="https://github.com/iliaozhmegov?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
     <a href="https://github.com/iliaozhmegov?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-</p>
+  <br>
 
-<!--- Data Bases --->
-<p align="center">
+  <!--- Data Bases --->
+
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-FF8000?style=flat-square&logo=postgresql&logoColor=white">
   <img alt="MS SQL" src="https://img.shields.io/badge/-MS%20SQL-FF8060?style=flat-square&logo=microsoftsqlserver&logoColor=white">
   <img alt="MS SQL" src="https://img.shields.io/badge/-MongoDB-FF8080?style=flat-square&logo=mongodb&logoColor=white">
