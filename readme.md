@@ -52,11 +52,11 @@ Here is a some technologies that usually use:
 
 ## Competitive programming
 
-* 400+ Problems (Data Structures and Algorithms)
-* Contest Rating - 1488 (Top 46.63% among those who participate)
+* 500+ Problems (Data Structures and Algorithms)
+* Contest Rating - 1528 (Top 34.77% among those who participate)
 
 <p align="center">
-  <img alt="Leetcode Stats" src="https://leetcode.card.workers.dev/iliaozhmegov?theme=dark">
+  <img alt="Leetcode Stats" src="https://leetcard.jacoblin.cool/iliaozhmegov?ext=contest">
 </p>
 
 
